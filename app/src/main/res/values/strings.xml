@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DibujoConColores</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_hola">hola</string>
+</resources>
